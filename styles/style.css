@@ -55,3 +55,22 @@ font-family: 'Overpass', sans-serif;
     width: 300px;
     padding-top: 200px ;
 }
+
+/* My Plan Section Styles */
+
+.plan-section{
+    display: flex;
+    gap: 150px;
+justify-content: center;
+text-align: center;
+}
+
+.plan-section h5{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 15px;
+}
+
+.plan-section p{
+    font-size: 20px;
+}
