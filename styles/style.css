@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+}
+
+
+
+/* Beliver Section Styles */
+
+.believe-header{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    margin: 0px 0px 100px 0px;
+}
+
+.believer-section{
+  padding-top: 250px;
+    margin: 0px 100px;
+ text-align: right;
+ padding-right: 100px;
+}
+
+.believer-section h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.believer-section p{
+    padding-bottom: 20px;
+}
+
+.believer-btn{
+    color: white;
+    background-color: rgb(28, 28, 28);
+    padding: 15px;
+    font-weight: 700;
+}
